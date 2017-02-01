@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.sybig</groupId>
+  <artifactId>oba-cytomer</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170201142557</lastUpdated>
+  </versioning>
+</metadata>
