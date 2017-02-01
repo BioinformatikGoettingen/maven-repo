@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.sybig</groupId>
+  <artifactId>oba-go</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170201143530</lastUpdated>
+  </versioning>
+</metadata>
